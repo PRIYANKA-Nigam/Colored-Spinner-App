@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Colored Spinner</string>
+    <string-array name="Spinner_Items">
+        <item>one</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+        <item>ten</item>
+    </string-array>
+</resources>
